@@ -16,6 +16,8 @@
     <link href="${gradientsCss}" rel="stylesheet">
   </head>
   <body class="">
+  
+	<h1>PetChopp WebApp</h1>
     <div class="wrapper">
       <div class="graphics">
         <div class="tower">
@@ -46,7 +48,7 @@
           </a>
         <div class="text">
           <h1>Congratulations!</h1>
-          <h2>You just created a Java Spring web application.</h2>
+          <h2>You just created a Java Spring web application. You bitch</h2>
         </div>
       </div>
     </div>
